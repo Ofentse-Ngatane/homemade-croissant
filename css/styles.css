@@ -7,6 +7,12 @@ p {
   text-align: center;
 }
 
+.photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
 a {
   text-align: center;
 }
@@ -18,11 +24,4 @@ footer a {
 
 footer {
   text-align: center;
-}
-
-.image {
-  max-width: 100%;
-  border-radius: 10px;
-  display: block;
-  margin: 30px auto;
 }
